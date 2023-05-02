@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Xiao. 👋
+
+- 🔭 I’m currently working as a Frontend Developer.
+- 🌱 I’m currently learning Angular, Kubernets, Docker.
+- 🏠 Here is my [portfolio](https://yidaoyidao.cc/) and [blog](https://yidaoj-blog.vercel.app/).
+- 😄 Pronouns: She / Her.
 
 <!--
 **YiDaoJ/YiDaoJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
