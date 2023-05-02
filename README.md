@@ -1,21 +1,14 @@
-### Hi there, I'm Xiao. 👋
-
-- 🔭 I’m currently working as a Frontend Developer.
-- 🌱 I’m currently learning Angular, Kubernets, Docker.
-- 🏠 Here is my [portfolio](https://yidaoyidao.cc/) and [blog](https://yidaoj-blog.vercel.app/).
-- 😄 Pronouns: She / Her.
+<h3 align="center">Hi there, I'm Xiao.</h3>
+<p align="center">🔭 I’m currently working as a frontend developer.</p>
+<p align="center">🌱 I’m learning Angular, Docker and K8s.</p>
 
 <!--
-**YiDaoJ/YiDaoJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <img align="center" alt="YiDaoJ github stats" src="https://github-readme-stats.vercel.app/api?username=YiDaoJ&bg_color=5,2979ff,448aff&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  Welcome to my <a href="https://yidaoyidao.cc/">portfolio</a> and <a href="https://yidaoj-blog.vercel.app/">blog</a>.
+</p>
